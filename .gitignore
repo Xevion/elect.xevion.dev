@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+*.local
+index.html
+.remote-assets
+components.d.ts
+.idea
+yarn-error.log
+vercel.json
+.npmrc
+netlify.toml
+example.md
