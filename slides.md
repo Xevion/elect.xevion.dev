@@ -101,16 +101,30 @@ Wouldn't you like to show off what you've worked on? Let's make it a new standar
 ## Collaboration
 
 ACM is missing a platform for collaborating on projects together - one is sorely needed to connect those with an idea
-to those with the skills.
+to those with the skills. From small projects to grandiose far off ideas, everything is on the table.
 
+---
+
+## Assistance
+
+With my experience and skillset, I believe I can help the members of ACM out with their projects from start to finish.
+
+- **Ideas**: I'm full of ideas when it comes to projects; I can help you expand on your project or provide a viewpoint you hadn't thought of yet!
+- **Issues**: With my experience, I've fallen into so many traps, flaws and issues with projects that I guarantee you I can help speculate what problems you'll encounter in development.
+- **Tech Stack**: I'm knowledgeable on tech stacks, frameworks and technologies, but even if I don't know what you need yet, I can find out. Let me help you figure out what you need!
+
+
+---
+class:
 ---
 
 # Contact & Platforms
 
+- 💯 **Website** - [xevion.dev](https://xevion.dev)
 - 🔧 **GitHub** - Xevion or [github.com/Xevion](https://github.com/Xevion)
-- 🚀 **Discord** - `Xevion#8506`, or `Ctrl+K` then type `Xevion`
 - 🛰️ **LinkedIn** - Ryan Walters at **[linkedin.com/in/ryancwalters/](https://www.linkedin.com/in/ryancwalters/)**
-- **Website** - [xevion.dev](https://xevion.dev)
+- 🚀 **Discord** - `Xevion#8506`, or `Ctrl+K` then type `Xevion`
+- 📨 **Email** - `ryanchwalters@gmail.com` or `xevioni@yandex.com`
 - **Photography Website** - [www.rcw.photos](https://www.rcw.photos/)
 
 ---
