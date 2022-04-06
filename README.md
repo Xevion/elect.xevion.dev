@@ -25,4 +25,9 @@ like that since it's literally almost 2AM and I need to wake up early. 😳
 <meta property="og:url" content="https://elect.xevion.dev">
 <meta property="og:image" content="https://elect.xevion.dev/banner.png">
 <meta property="og:description" content="My election presentation for the role of Projects Officer at UTSA ACM's 2022 Officer Election">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="elect.xevion.dev Preview Banner">
+<meta name="twitter:title" content="elect.xevion.ev">
+<meta name="twitter:description" content="My election presentation for the role of Projects Officer at UTSA ACM's 2022 Officer Election">
+<meta name="twitter:image" content="https://elect.xevion.dev/banner.png">
 ```
